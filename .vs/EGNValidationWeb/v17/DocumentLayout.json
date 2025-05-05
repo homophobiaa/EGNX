@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|c:\\users\\deo08\\onedrive\\documents\\github\\egnx\\egnvalidationweb\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|solutionrelative:egnvalidationweb\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|c:\\users\\deo08\\onedrive\\documents\\github\\egnx\\egnvalidationweb\\pages\\egnx.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|solutionrelative:egnvalidationweb\\pages\\egnx.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|c:\\users\\deo08\\onedrive\\documents\\github\\egnx\\egnvalidationweb\\pages\\egnx.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|solutionrelative:egnvalidationweb\\pages\\egnx.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|c:\\users\\deo08\\onedrive\\documents\\github\\egnx\\egnvalidationweb\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|solutionrelative:egnvalidationweb\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|c:\\users\\deo08\\onedrive\\documents\\github\\egnx\\egnvalidationweb\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|solutionrelative:egnvalidationweb\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|c:\\users\\deo08\\onedrive\\documents\\github\\egnx\\egnvalidationweb\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|solutionrelative:egnvalidationweb\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|c:\\users\\deo08\\onedrive\\documents\\github\\egnx\\egnvalidationweb\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|solutionrelative:egnvalidationweb\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|c:\\users\\deo08\\onedrive\\documents\\github\\egnx\\egnvalidationweb\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|solutionrelative:egnvalidationweb\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|c:\\users\\deo08\\onedrive\\documents\\github\\egnx\\egnvalidationweb\\services\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|solutionrelative:egnvalidationweb\\services\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -18,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +54,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "EGNValidationWeb\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Pages\\Counter.razor",
-              "RelativeToolTip": "EGNValidationWeb\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T12:17:10.884Z",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "EGNValidationWeb\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "EGNValidationWeb\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-05T15:47:40.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "EGNValidationWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "EGNValidationWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABcBAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-05T14:31:53.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "EGNValidationWeb\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\index.html",
+              "RelativeToolTip": "EGNValidationWeb\\wwwroot\\index.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-05T14:29:55.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Services\\Validation.cs",
+              "RelativeDocumentMoniker": "EGNValidationWeb\\Services\\Validation.cs",
+              "ToolTip": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Services\\Validation.cs",
+              "RelativeToolTip": "EGNValidationWeb\\Services\\Validation.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwGoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:02:21.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EGNX.razor.css",
+              "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Pages\\EGNX.razor.css",
+              "RelativeDocumentMoniker": "EGNValidationWeb\\Pages\\EGNX.razor.css",
+              "ToolTip": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Pages\\EGNX.razor.css",
+              "RelativeToolTip": "EGNValidationWeb\\Pages\\EGNX.razor.css",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-05T13:53:02.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "EGNValidationWeb\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "EGNValidationWeb\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T13:40:23.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "EGNValidationWeb\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "EGNValidationWeb\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-05T13:36:37.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EGNX.razor",
+              "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Pages\\EGNX.razor",
+              "RelativeDocumentMoniker": "EGNValidationWeb\\Pages\\EGNX.razor",
+              "ToolTip": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Pages\\EGNX.razor",
+              "RelativeToolTip": "EGNValidationWeb\\Pages\\EGNX.razor",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T13:33:23.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Test.razor",
               "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor",
               "RelativeDocumentMoniker": "EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor",

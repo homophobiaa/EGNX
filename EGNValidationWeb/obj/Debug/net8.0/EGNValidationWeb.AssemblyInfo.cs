@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EGNValidationWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e7a46d2fceb8ac88d51628416ede294769091f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa22a72bb40ff62582fc216273128b57ee2049b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EGNValidationWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EGNValidationWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

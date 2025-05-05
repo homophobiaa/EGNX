@@ -2,41 +2,72 @@
 
 @using EGNValidation
 
-<h3>EGN Validation and Generation</h3>
+@page "/egnx"
 
-<div>
-    <h4>Validate EGN</h4>
-    <input type="text" @bind="egnToValidate" placeholder="Enter EGN" />
-    <button @onclick="ValidateEGN">Validate EGN</button>
-    <p>@validationResult</p>
-</div>
+<div class="egnx-container">
+    <h3>EGN Validation and Generation</h3>
 
-<hr />
+    <div class="section">
+        <h4>Validate EGN</h4>
+        <input type="text" @bind="egnToValidate" placeholder="Enter EGN" />
+        <button @onclick="ValidateEGN">Validate EGN</button>
+        <p>@validationResult</p>
+    </div>
 
-<div>
-    <h4>Generate EGN</h4>
-    <input type="date" title="Select your birth date:" @bind="birthDate" />
-    <input type="text" @bind="city" placeholder="Enter City" />
-    <select title="Select your gender" @bind="gender">
-        <option value="true">Male</option>
-        <option value="false">Female</option>
-    </select>
-    <button @onclick="GenerateEGNs">Generate EGNs</button>
-    <ul>
-        @foreach (var egn in generatedEGNs)
+    <hr />
+
+    <div class="section">
+        <h4>Generate EGN</h4>
+        <div class="date-wrapper" @onclick="TriggerDateClick">
+            <input @ref="birthDateInput" type="date" title="Select your birth date:" @bind="birthDate" />
+        </div>
+
+        <input type="text" @bind="city" placeholder="Enter City" />
+        <select title="Select your gender" @bind="gender">
+            <option value="null">Select your gender</option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+        </select>
+        <p>@warning</p>
+
+        <button @onclick="GenerateEGNs">Generate EGNs</button>
+        <button @onclick="ToggleList">City Options</button>
+        <p>@generationResult</p>
+        @if (showList)
         {
-                <li>@egn</li>
+            <ul class="cool-list">
+                @foreach (var city in cities)
+                {
+                    <li>@city</li>
+                }
+            </ul>
         }
-    </ul>
+        <ul>
+            @foreach (var egn in generatedEGNs)
+            {
+                <li>@egn</li>
+            }
+        </ul>
+    </div>
+</div>
+<div class="github-link">
+    <a href="https://github.com/homophobiaa/EGNX" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+        View on GitHub
+    </a>
 </div>
 
 @code {
     private string egnToValidate;
     private string validationResult;
-    private DateTime birthDate;
+    private string generationResult;
+    private DateTime birthDate = DateTime.Today;
     private string city;
-    private bool gender;
+    private string gender;
     private List<string> generatedEGNs = new List<string>();
+    private bool showList = false;
+    private List<string> cities = new List<string>();
+    private string warning;
 
     private void ValidateEGN()
     {
@@ -55,16 +86,37 @@
     {
         if (birthDate == null || string.IsNullOrEmpty(city))
         {
-            validationResult = "Please enter a valid birthdate and city.";
+            generationResult = "Please enter a valid birthdate and city.";
             return;
         }
+        bool isMale;
+        if(gender == "male")
+        {
+            isMale = true;
+        }
+        else if(gender == "female") { isMale = false; }
+        else if(gender == "null") { warning = "Choose a gender first."; return; }
+        else { return; }
 
         Validation validator = new Validation();
 
-        generatedEGNs = validator.Generate(birthDate, city, gender).ToList();
-        foreach (var egn in generatedEGNs)
-        {
-            Console.WriteLine(egn);
-        }
+        generatedEGNs = validator.Generate(birthDate, city, isMale).ToList();
+        showList = false;
     }
+
+    private void ToggleList()
+    {
+        showList = !showList;
+
+        string citiess = "Blagoevgrad, Burgas, Varna, Veliko Turnovo, Vidin, Vraca, Gabrovo, Kurdjali, Kustendil, Lovech, Montana, Pazardjik, Pernik, Pleven, Plovdiv, Razgrad, Ruse, Silistra, Sliven, Smolqn, Sofia - grad, Sofia - oblast, Stara Zagora, Dobrich, Turgovishte, Haskovo, Shumen, Qmbol";
+        cities = citiess.Split(", ").ToList();
+    }
+
+    private ElementReference birthDateInput;
+
+    private async Task TriggerDateClick()
+    {
+        await birthDateInput.FocusAsync();
+    }
+
 }

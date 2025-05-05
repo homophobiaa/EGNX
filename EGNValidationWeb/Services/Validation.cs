@@ -107,11 +107,11 @@ namespace EGNValidation
                     startCode = 602;
                     endCode = 623;
                     break;
-                case "Sofia - grad":
+                case "Sofia-grad":
                     startCode = 624;
                     endCode = 721;
                     break;
-                case "Sofia - oblast":
+                case "Sofia-oblast":
                     startCode = 722;
                     endCode = 751;
                     break;

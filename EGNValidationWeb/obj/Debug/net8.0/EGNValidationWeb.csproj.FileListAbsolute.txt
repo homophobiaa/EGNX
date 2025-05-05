@@ -2059,9 +2059,6 @@ C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\
 C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\compressed\vuazq15gco-tptq2av103.gz
 C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\compressed\0h6n0cvi5u-lfu7j35m59.gz
 C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\compressed\3gcl4sybv9-oyz0vx2fzb.gz
-C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\compressed\txleky39rv-1qzg8a09bv.gz
-C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\compressed\bi8x636h8b-euu4pai41i.gz
-C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\compressed\px4shtoi5g-53laqwvogy.gz
 C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -2077,3 +2074,7 @@ C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\
 C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\refint\EGNValidationWeb.dll
 C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\EGNValidationWeb.pdb
 C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\ref\EGNValidationWeb.dll
+C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\scopedcss\Pages\EGNX.razor.rz.scp.css
+C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\compressed\txleky39rv-obunc578x4.gz
+C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\compressed\bi8x636h8b-nnt7vydhof.gz
+C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Debug\net8.0\compressed\px4shtoi5g-2aiwrebzaj.gz

@@ -1,0 +1,135 @@
+﻿.egnx-container {
+    background-color: #0a0a0a;
+    color: #c0ffc0;
+    font-family: 'Fira Code', 'Courier New', monospace;
+    padding: 30px;
+    border-radius: 8px;
+    max-width: 700px;
+    margin: auto;
+}
+
+    .egnx-container h3,
+    .egnx-container h4 {
+        color: #00ff88;
+        border-left: 4px solid #00ff88;
+        padding-left: 12px;
+    }
+
+    .egnx-container .section {
+        margin-bottom: 40px;
+    }
+
+    .egnx-container input,
+    .egnx-container select {
+        background-color: #000;
+        color: #00ff88;
+        border: 1px solid #00ff88;
+        padding: 10px;
+        margin-bottom: 12px;
+        width: 100%;
+        box-sizing: border-box;
+        font-family: inherit;
+        transition: border 0.2s ease-in-out;
+    }
+
+        /* Date picker calendar icon fix */
+        .egnx-container input[type="date"]::-webkit-calendar-picker-indicator {
+            filter: invert(1);
+        }
+
+        /* Placeholder text brighter */
+        .egnx-container input::placeholder {
+            color: #66ffcc;
+            opacity: 1;
+        }
+
+        .egnx-container input:focus,
+        .egnx-container select:focus {
+            border-color: #00ffaa;
+            outline: none;
+        }
+
+    .egnx-container button {
+        background-color: #111;
+        color: #00ff88;
+        border: 1px solid #00ff88;
+        padding: 10px 20px;
+        font-family: inherit;
+        cursor: pointer;
+        position: relative;
+        overflow: hidden;
+        transition: color 0.3s;
+        z-index: 1;
+    }
+
+        .egnx-container button::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(0);
+            width: 300%;
+            height: 300%;
+            background-color: #00ff88;
+            z-index: -1;
+            transition: transform 0.4s ease-out;
+            border-radius: 50%;
+        }
+
+        .egnx-container button:hover::before {
+            transform: translate(-50%, -50%) scale(1);
+        }
+
+        .egnx-container button:hover {
+            color: #000;
+        }
+
+    .egnx-container p,
+    .egnx-container li {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .egnx-container ul {
+        list-style: square;
+        padding-left: 20px;
+        color: #00ffaa;
+    }
+
+    .egnx-container hr {
+        border: none;
+        height: 1px;
+        background: linear-gradient(to right, #00ff88, transparent);
+        margin: 40px 0;
+    }
+
+.github-link {
+    margin-top: 30px;
+    text-align: center;
+}
+
+    .github-link a {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        color: #00ff88;
+        text-decoration: none;
+        background-color: #111;
+        border: 1px solid #00ff88;
+        padding: 10px 20px;
+        border-radius: 6px;
+        transition: all 0.3s ease;
+        font-family: 'Courier New', monospace;
+    }
+
+        .github-link a:hover {
+            background-color: #00ff88;
+            color: #000;
+        }
+
+    .github-link img {
+        width: 20px;
+        height: 20px;
+        filter: invert(1);
+    }
+
