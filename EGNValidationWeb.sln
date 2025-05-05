@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGNValidationWeb", "EGNValidationWeb\EGNValidationWeb\EGNValidationWeb.csproj", "{9CF6030F-8B96-4C5E-9924-4D14D64B7C62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGNValidationWeb.Client", "EGNValidationWeb\EGNValidationWeb.Client\EGNValidationWeb.Client.csproj", "{7B326D47-001A-4A96-9B5A-741019C07AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF6030F-8B96-4C5E-9924-4D14D64B7C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF6030F-8B96-4C5E-9924-4D14D64B7C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF6030F-8B96-4C5E-9924-4D14D64B7C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF6030F-8B96-4C5E-9924-4D14D64B7C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B326D47-001A-4A96-9B5A-741019C07AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B326D47-001A-4A96-9B5A-741019C07AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B326D47-001A-4A96-9B5A-741019C07AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B326D47-001A-4A96-9B5A-741019C07AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BBD7FB7-D95A-4658-882B-5977B7B3031B}
+	EndGlobalSection
+EndGlobal
