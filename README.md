@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-[egnx.pages.dev](egnx.pages.dev)
+[egnx.pages.dev](https://egnx.pages.dev)
 
 ## 🛠️ Tech Stack
 
