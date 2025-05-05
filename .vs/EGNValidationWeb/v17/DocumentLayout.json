@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B326D47-001A-4A96-9B5A-741019C07AF7}|EGNValidationWeb\\EGNValidationWeb.Client\\EGNValidationWeb.Client.csproj|c:\\users\\deo08\\onedrive\\documents\\github\\egnx\\egnvalidationweb\\egnvalidationweb.client\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B326D47-001A-4A96-9B5A-741019C07AF7}|EGNValidationWeb\\EGNValidationWeb.Client\\EGNValidationWeb.Client.csproj|solutionrelative:egnvalidationweb\\egnvalidationweb.client\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|c:\\users\\deo08\\onedrive\\documents\\github\\egnx\\egnvalidationweb\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B51008E-A825-421B-952C-2F81836A114D}|EGNValidationWeb\\EGNValidationWeb.csproj|solutionrelative:egnvalidationweb\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,19 +23,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Test.razor",
-              "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor",
-              "RelativeDocumentMoniker": "EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor",
-              "ToolTip": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor",
-              "RelativeToolTip": "EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "EGNValidationWeb\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\Pages\\Counter.razor",
+              "RelativeToolTip": "EGNValidationWeb\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T11:38:42.964Z",
+              "WhenOpened": "2025-05-05T12:17:10.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.razor",
+              "DocumentMoniker": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor",
+              "RelativeDocumentMoniker": "EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor",
+              "ToolTip": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor",
+              "RelativeToolTip": "EGNValidationWeb\\EGNValidationWeb.Client\\Pages\\Test.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T11:38:42.964Z"
             }
           ]
         }
