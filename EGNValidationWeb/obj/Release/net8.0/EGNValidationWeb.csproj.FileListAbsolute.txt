@@ -1034,6 +1034,7 @@ C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Release\net8.
 C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Release\net8.0\refint\EGNValidationWeb.dll
 C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Release\net8.0\EGNValidationWeb.pdb
 C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Release\net8.0\ref\EGNValidationWeb.dll
-C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Release\net8.0\compressed\txleky39rv-ybmnafr8kl.gz
-C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Release\net8.0\compressed\bi8x636h8b-r265b2gqen.gz
-C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Release\net8.0\compressed\px4shtoi5g-z5zlxfq5s0.gz
+C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Release\net8.0\scopedcss\Pages\EGNX.razor.rz.scp.css
+C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Release\net8.0\compressed\txleky39rv-si4y7tvck5.gz
+C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Release\net8.0\compressed\bi8x636h8b-6nmxdwg9iy.gz
+C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\obj\Release\net8.0\compressed\px4shtoi5g-ckjkkpgtxx.gz

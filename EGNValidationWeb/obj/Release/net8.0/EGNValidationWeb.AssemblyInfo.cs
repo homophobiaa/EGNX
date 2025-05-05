@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EGNValidationWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5931e8d9e52af1cff0d14ed79f8914c546b6875d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+704df033bce7b89d641bd10c61ec98ffc4afb3b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("EGNValidationWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EGNValidationWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "EGNValidationWeb",
   "resources": {
-    "hash": "sha256-zXRdONxS5Et+eT4EYcOcFYUGYh0DYr/LOPWzihAqDn8=",
+    "hash": "sha256-K/LC23U9vmP//5X1r6kOuGhCncE93jDCDPbWP0m+xcM=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-BeLfFpg9iS3DkEdywsYY7sV6ML3knqkMaMq0JBEbWlw=",
       "netstandard.wasm": "sha256-VkjUtJ6DK5bFTc2JwwGHmQY3tBcNSC7zMSJXuiXcnJA=",
       "System.Private.CoreLib.wasm": "sha256-VIQEPUSb48N39LR+ncGDP5xU02xuRbyZU8MhMho26wQ=",
-      "EGNValidationWeb.wasm": "sha256-Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA="
+      "EGNValidationWeb.wasm": "sha256-ZDaGM0rslUlFL0Trt+Xu6KEwBk9sPRfvmCpZP87xjjc="
     },
     "pdb": {
-      "EGNValidationWeb.pdb": "sha256-A2FwRNfZ/cZz3QfVVHvSkAXddNaRvLrHFuwCGOS2bNw="
+      "EGNValidationWeb.pdb": "sha256-4t1kaNBTB1oRTj7uE/W24Ouno011uOLkCouDdFdNvFQ="
     }
   },
   "cacheBootResources": true,
