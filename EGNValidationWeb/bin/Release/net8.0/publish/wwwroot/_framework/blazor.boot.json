@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "EGNValidationWeb",
   "resources": {
-    "hash": "sha256-DOB9JTNOMa1SS5sMSAyYfcDwSieTZub9Wt7AlwTjX4A=",
+    "hash": "sha256-uNNuOQDwYo6eg1Xxpm2QtBrN5wrDWYcXPzey7hLaTcA=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-A7IcvUQVerU8JvOiTlWHQG3NN+fpJxW9DX8EA5e/kTY="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "EGNValidationWeb.wasm": "sha256-jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA=",
+      "EGNValidationWeb.wasm": "sha256-Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-HcfVYi7TllQHM+AuUlVStvw6unvhztNy//vA/WdZoLs=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-aSkGMtXQ+nX7g4Qyy8R/1Sw9VWGX6gI9MjUponKtiz4=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-YOTmgCi9w/cS25afM5UoVJ07S8qiQ6SREvyxCkFnL5o=",

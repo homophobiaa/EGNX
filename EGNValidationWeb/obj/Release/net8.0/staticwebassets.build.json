@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xWneeUSRYvAg122gOoNsPODMs1iQiaBaBhlTynSOcq8=",
+  "Hash": "ZcRL5xmWikytb9umAp+KKoajkdCTg0ewxQBdOU4dWoE=",
   "Source": "EGNValidationWeb",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "g022gh8kxz",
-      "Integrity": "sOrS6yQQ3Ulvt4maRjsyEuubLJ2xNNx7L5glWUxRgDw=",
+      "Fingerprint": "z5zlxfq5s0",
+      "Integrity": "uR0YI0qBJRThAa0NQOBB3u3jT6Dp4Tf4d4eo+7z8sng=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "prv8hjw260",
-      "Integrity": "K1C3vYSDUqbXnRzBEO3KwzJo2sXrhXu9a9i8HKCSZyY=",
+      "Fingerprint": "r265b2gqen",
+      "Integrity": "A2FwRNfZ/cZz3QfVVHvSkAXddNaRvLrHFuwCGOS2bNw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net8.0\\EGNValidationWeb.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "6ep8u82lop",
-      "Integrity": "jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA=",
+      "Fingerprint": "ybmnafr8kl",
+      "Integrity": "Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\EGNValidationWeb.wasm"
@@ -5855,7 +5855,7 @@
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Linq.wasm"
     },
     {
-      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\bi8x636h8b-prv8hjw260.gz",
+      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\bi8x636h8b-r265b2gqen.gz",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\",
@@ -5869,8 +5869,8 @@
       "RelatedAsset": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\EGNValidationWeb.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9dg2lkr8ux",
-      "Integrity": "o4uUrU//PByT0SK9cGhcTfkYlaQOyZJDAoxuT3ynuls=",
+      "Fingerprint": "l8mqsydwuw",
+      "Integrity": "69jrycrRrMGcS0cxw1+KMo8NJl4supTwJ5cFCQQq2VU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\EGNValidationWeb.pdb"
@@ -7556,7 +7556,7 @@
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.IO.wasm"
     },
     {
-      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\px4shtoi5g-g022gh8kxz.gz",
+      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\px4shtoi5g-z5zlxfq5s0.gz",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\",
@@ -7570,8 +7570,8 @@
       "RelatedAsset": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "h1c1tqe6rc",
-      "Integrity": "NThQJX/5YAsx+zd57Yvxaiqg6XkF+BaFKR+7n7Luurc=",
+      "Fingerprint": "7m2nye8ilx",
+      "Integrity": "ATmRppewCdKTvUOHVXEQhQxSqLC1FNfbJjHYh0FB6IU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7976,7 +7976,7 @@
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.Watcher.wasm"
     },
     {
-      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\txleky39rv-6ep8u82lop.gz",
+      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\txleky39rv-ybmnafr8kl.gz",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\",
@@ -7990,8 +7990,8 @@
       "RelatedAsset": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\EGNValidationWeb.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6wfho5xozd",
-      "Integrity": "Sjk555ztCjCjlRFPDriLnF9RSi90l5AqtZ+vG1AhBZI=",
+      "Fingerprint": "wkjvu70b8v",
+      "Integrity": "IHH9nZLDCLnvHaJ3vSaHTN2iCBrtdHx6BX0BDQscrCQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\EGNValidationWeb.wasm"
@@ -8836,11 +8836,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sOrS6yQQ3Ulvt4maRjsyEuubLJ2xNNx7L5glWUxRgDw=\""
+          "Value": "\"uR0YI0qBJRThAa0NQOBB3u3jT6Dp4Tf4d4eo+7z8sng=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 05 May 2025 12:26:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8850,18 +8850,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sOrS6yQQ3Ulvt4maRjsyEuubLJ2xNNx7L5glWUxRgDw="
+          "Value": "sha256-uR0YI0qBJRThAa0NQOBB3u3jT6Dp4Tf4d4eo+7z8sng="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\px4shtoi5g-g022gh8kxz.gz",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\px4shtoi5g-z5zlxfq5s0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000115114539"
+          "Quality": "0.000115088042"
         }
       ],
       "ResponseHeaders": [
@@ -8871,15 +8871,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8686"
+          "Value": "8688"
         },
         {
           "Name": "ETag",
-          "Value": "\"NThQJX/5YAsx+zd57Yvxaiqg6XkF+BaFKR+7n7Luurc=\""
+          "Value": "\"ATmRppewCdKTvUOHVXEQhQxSqLC1FNfbJjHYh0FB6IU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 05 May 2025 12:25:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8899,19 +8899,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"sOrS6yQQ3Ulvt4maRjsyEuubLJ2xNNx7L5glWUxRgDw=\""
+          "Value": "W/\"uR0YI0qBJRThAa0NQOBB3u3jT6Dp4Tf4d4eo+7z8sng=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sOrS6yQQ3Ulvt4maRjsyEuubLJ2xNNx7L5glWUxRgDw="
+          "Value": "sha256-uR0YI0qBJRThAa0NQOBB3u3jT6Dp4Tf4d4eo+7z8sng="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\px4shtoi5g-g022gh8kxz.gz",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\px4shtoi5g-z5zlxfq5s0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8920,7 +8920,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8686"
+          "Value": "8688"
         },
         {
           "Name": "Content-Type",
@@ -8928,11 +8928,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NThQJX/5YAsx+zd57Yvxaiqg6XkF+BaFKR+7n7Luurc=\""
+          "Value": "\"ATmRppewCdKTvUOHVXEQhQxSqLC1FNfbJjHYh0FB6IU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 05 May 2025 12:25:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8950,7 +8950,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NThQJX/5YAsx+zd57Yvxaiqg6XkF+BaFKR+7n7Luurc="
+          "Value": "sha256-ATmRppewCdKTvUOHVXEQhQxSqLC1FNfbJjHYh0FB6IU="
         }
       ]
     },
@@ -9016,7 +9016,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sun, 16 Mar 2025 00:04:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9069,7 +9069,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sun, 16 Mar 2025 00:04:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9153,7 +9153,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9206,7 +9206,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9290,7 +9290,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9343,7 +9343,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9427,7 +9427,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9480,7 +9480,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9564,7 +9564,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9617,7 +9617,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9701,7 +9701,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9754,7 +9754,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9838,7 +9838,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9891,7 +9891,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9932,11 +9932,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K1C3vYSDUqbXnRzBEO3KwzJo2sXrhXu9a9i8HKCSZyY=\""
+          "Value": "\"A2FwRNfZ/cZz3QfVVHvSkAXddNaRvLrHFuwCGOS2bNw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 05 May 2025 12:25:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9946,13 +9946,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K1C3vYSDUqbXnRzBEO3KwzJo2sXrhXu9a9i8HKCSZyY="
+          "Value": "sha256-A2FwRNfZ/cZz3QfVVHvSkAXddNaRvLrHFuwCGOS2bNw="
         }
       ]
     },
     {
       "Route": "_framework/EGNValidationWeb.pdb",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\bi8x636h8b-prv8hjw260.gz",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\bi8x636h8b-r265b2gqen.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9971,11 +9971,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o4uUrU//PByT0SK9cGhcTfkYlaQOyZJDAoxuT3ynuls=\""
+          "Value": "\"69jrycrRrMGcS0cxw1+KMo8NJl4supTwJ5cFCQQq2VU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 05 May 2025 12:25:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9995,19 +9995,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"K1C3vYSDUqbXnRzBEO3KwzJo2sXrhXu9a9i8HKCSZyY=\""
+          "Value": "W/\"A2FwRNfZ/cZz3QfVVHvSkAXddNaRvLrHFuwCGOS2bNw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K1C3vYSDUqbXnRzBEO3KwzJo2sXrhXu9a9i8HKCSZyY="
+          "Value": "sha256-A2FwRNfZ/cZz3QfVVHvSkAXddNaRvLrHFuwCGOS2bNw="
         }
       ]
     },
     {
       "Route": "_framework/EGNValidationWeb.pdb.gz",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\bi8x636h8b-prv8hjw260.gz",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\bi8x636h8b-r265b2gqen.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10024,11 +10024,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o4uUrU//PByT0SK9cGhcTfkYlaQOyZJDAoxuT3ynuls=\""
+          "Value": "\"69jrycrRrMGcS0cxw1+KMo8NJl4supTwJ5cFCQQq2VU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 05 May 2025 12:25:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10046,7 +10046,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-o4uUrU//PByT0SK9cGhcTfkYlaQOyZJDAoxuT3ynuls="
+          "Value": "sha256-69jrycrRrMGcS0cxw1+KMo8NJl4supTwJ5cFCQQq2VU="
         }
       ]
     },
@@ -10069,11 +10069,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA=\""
+          "Value": "\"Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 05 May 2025 12:25:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10083,18 +10083,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA="
+          "Value": "sha256-Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA="
         }
       ]
     },
     {
       "Route": "_framework/EGNValidationWeb.wasm",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\txleky39rv-6ep8u82lop.gz",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\txleky39rv-ybmnafr8kl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000094224065"
+          "Quality": "0.000094215187"
         }
       ],
       "ResponseHeaders": [
@@ -10104,15 +10104,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10612"
+          "Value": "10613"
         },
         {
           "Name": "ETag",
-          "Value": "\"Sjk555ztCjCjlRFPDriLnF9RSi90l5AqtZ+vG1AhBZI=\""
+          "Value": "\"IHH9nZLDCLnvHaJ3vSaHTN2iCBrtdHx6BX0BDQscrCQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 05 May 2025 12:25:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10132,19 +10132,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA=\""
+          "Value": "W/\"Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA="
+          "Value": "sha256-Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA="
         }
       ]
     },
     {
       "Route": "_framework/EGNValidationWeb.wasm.gz",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\txleky39rv-6ep8u82lop.gz",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\txleky39rv-ybmnafr8kl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10153,7 +10153,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10612"
+          "Value": "10613"
         },
         {
           "Name": "Content-Type",
@@ -10161,11 +10161,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Sjk555ztCjCjlRFPDriLnF9RSi90l5AqtZ+vG1AhBZI=\""
+          "Value": "\"IHH9nZLDCLnvHaJ3vSaHTN2iCBrtdHx6BX0BDQscrCQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 05 May 2025 12:25:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10183,7 +10183,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Sjk555ztCjCjlRFPDriLnF9RSi90l5AqtZ+vG1AhBZI="
+          "Value": "sha256-IHH9nZLDCLnvHaJ3vSaHTN2iCBrtdHx6BX0BDQscrCQ="
         }
       ]
     },
@@ -10249,7 +10249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:01:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10302,7 +10302,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:01:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10386,7 +10386,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 23 Oct 2023 11:14:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10439,7 +10439,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 23 Oct 2023 11:14:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10523,7 +10523,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 23 Oct 2023 11:14:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10576,7 +10576,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 23 Oct 2023 11:14:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10660,7 +10660,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 23 Oct 2023 11:14:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10713,7 +10713,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Mon, 23 Oct 2023 11:14:14 GMT"
         },
         {
           "Name": "Cache-Control",

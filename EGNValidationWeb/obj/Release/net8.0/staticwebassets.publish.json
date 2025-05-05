@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YlRk+i0FxN5jEmroMerDoSNtz1RnUFMMnPwArhxMo7k=",
+  "Hash": "K3kLqsx8iAouWCmLR+FT/3dwvNiXjzButCG3XIM6RCE=",
   "Source": "EGNValidationWeb",
   "BasePath": "/",
   "Mode": "Root",
@@ -41,7 +41,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.js",
       "AssetKind": "Publish",
@@ -62,7 +62,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime.js",
       "AssetKind": "Publish",
@@ -83,7 +83,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_CJK.dat",
       "AssetKind": "Publish",
@@ -104,7 +104,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_EFIGS.dat",
       "AssetKind": "Publish",
@@ -125,7 +125,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_no_CJK.dat",
       "AssetKind": "Publish",
@@ -146,7 +146,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/blazor.boot.json",
       "AssetKind": "Publish",
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "j2msdclt6d",
-      "Integrity": "u8sUZ8BD6dsQBg7YddkUQclxUfdaUw+mi9yeGYqOorQ=",
+      "Fingerprint": "m482tid25n",
+      "Integrity": "pqpZwxdqX7JQJ67azOxjOoKLrWBl57fgYgkaHOBtjF4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -167,7 +167,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\4ai3pcueo1-zsg7ig48qt.gz",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.js.gz",
       "AssetKind": "Publish",
@@ -209,7 +209,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\irb8pdgzzk-c4xdz68y56.gz",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime.js.gz",
       "AssetKind": "Publish",
@@ -1193,7 +1193,7 @@
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\i8ta2xi0v6-6ep8u82lop.br",
+      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\i8ta2xi0v6-ybmnafr8kl.br",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1207,14 +1207,14 @@
       "RelatedAsset": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\EGNValidationWeb.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "zdr75ra693",
-      "Integrity": "ZxcWT5dLUeUWcVqRKhF+8IiN519o8IVOq58+2ObIdN0=",
+      "Fingerprint": "uqbpl8tzv1",
+      "Integrity": "tuyb49Uv4SNpKSxD+60m5eAhbjmoPmriZG/zOfhQ0nk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\EGNValidationWeb.wasm"
     },
     {
-      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\i8ta2xi0v6-6ep8u82lop.gz",
+      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\i8ta2xi0v6-ybmnafr8kl.gz",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1228,8 +1228,8 @@
       "RelatedAsset": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\EGNValidationWeb.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6wfho5xozd",
-      "Integrity": "Sjk555ztCjCjlRFPDriLnF9RSi90l5AqtZ+vG1AhBZI=",
+      "Fingerprint": "wkjvu70b8v",
+      "Integrity": "IHH9nZLDCLnvHaJ3vSaHTN2iCBrtdHx6BX0BDQscrCQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\EGNValidationWeb.wasm"
@@ -1466,7 +1466,7 @@
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\sn4xizaltr-j2msdclt6d.br",
+      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\sn4xizaltr-m482tid25n.br",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1480,14 +1480,14 @@
       "RelatedAsset": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "r7al1rn2uo",
-      "Integrity": "9wPdwn2sSzMHWp6bwTxjw8oppjvhIoC61XhCH1Fsy8Y=",
+      "Fingerprint": "vv4mua0g7c",
+      "Integrity": "OwgGzWmQ8EkxedlwRtrbU8VTj0NJJFfKHCwOWPIDwnc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\sn4xizaltr-j2msdclt6d.gz",
+      "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\sn4xizaltr-m482tid25n.gz",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1501,8 +1501,8 @@
       "RelatedAsset": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jtzqsdsts7",
-      "Integrity": "KdjZBuXb+ZDOvnD1xTZsvcs/u93FPNed+8cElWkQWlg=",
+      "Fingerprint": "141ucoulb5",
+      "Integrity": "IW2WuEBBGmpflxt22ETzmNtC/KKyiXIXz21xtcUEe8g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -1931,7 +1931,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\wasm\\for-publish\\dotnet.native.js",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.js",
       "AssetKind": "Publish",
@@ -1952,7 +1952,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\wasm\\for-publish\\dotnet.native.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.wasm",
       "AssetKind": "Publish",
@@ -1973,7 +1973,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\EGNValidationWeb.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/EGNValidationWeb.wasm",
       "AssetKind": "Publish",
@@ -1984,8 +1984,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "6ep8u82lop",
-      "Integrity": "jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA=",
+      "Fingerprint": "ybmnafr8kl",
+      "Integrity": "Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\EGNValidationWeb.wasm"
@@ -1994,7 +1994,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.wasm",
       "AssetKind": "Publish",
@@ -2015,7 +2015,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.Web.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.wasm",
       "AssetKind": "Publish",
@@ -2036,7 +2036,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "AssetKind": "Publish",
@@ -2057,7 +2057,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Abstractions.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2078,7 +2078,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Json.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Json.wasm",
       "AssetKind": "Publish",
@@ -2099,7 +2099,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.wasm",
       "AssetKind": "Publish",
@@ -2120,7 +2120,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2141,7 +2141,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.wasm",
       "AssetKind": "Publish",
@@ -2162,7 +2162,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Logging.Abstractions.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm",
       "AssetKind": "Publish",
@@ -2183,7 +2183,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Logging.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging.wasm",
       "AssetKind": "Publish",
@@ -2204,7 +2204,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Options.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Options.wasm",
       "AssetKind": "Publish",
@@ -2225,7 +2225,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Primitives.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Primitives.wasm",
       "AssetKind": "Publish",
@@ -2246,7 +2246,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.JSInterop.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop.wasm",
       "AssetKind": "Publish",
@@ -2267,7 +2267,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.JSInterop.WebAssembly.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.wasm",
       "AssetKind": "Publish",
@@ -2288,7 +2288,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.Concurrent.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Concurrent.wasm",
       "AssetKind": "Publish",
@@ -2309,7 +2309,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.wasm",
       "AssetKind": "Publish",
@@ -2330,7 +2330,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.ComponentModel.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel.wasm",
       "AssetKind": "Publish",
@@ -2351,7 +2351,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Console.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Console.wasm",
       "AssetKind": "Publish",
@@ -2372,7 +2372,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Diagnostics.DiagnosticSource.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Diagnostics.DiagnosticSource.wasm",
       "AssetKind": "Publish",
@@ -2393,7 +2393,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Linq.wasm",
       "AssetKind": "Publish",
@@ -2414,7 +2414,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Memory.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Memory.wasm",
       "AssetKind": "Publish",
@@ -2435,7 +2435,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.Json.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Http.Json.wasm",
       "AssetKind": "Publish",
@@ -2456,7 +2456,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Http.wasm",
       "AssetKind": "Publish",
@@ -2477,7 +2477,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Primitives.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Primitives.wasm",
       "AssetKind": "Publish",
@@ -2498,7 +2498,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Private.CoreLib.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.CoreLib.wasm",
       "AssetKind": "Publish",
@@ -2519,7 +2519,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Private.Uri.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.Uri.wasm",
       "AssetKind": "Publish",
@@ -2540,7 +2540,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.InteropServices.JavaScript.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.InteropServices.JavaScript.wasm",
       "AssetKind": "Publish",
@@ -2561,7 +2561,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.wasm",
       "AssetKind": "Publish",
@@ -2582,7 +2582,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.Encodings.Web.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Encodings.Web.wasm",
       "AssetKind": "Publish",
@@ -2603,7 +2603,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.Json.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Json.wasm",
       "AssetKind": "Publish",
@@ -2624,7 +2624,7 @@
       "Identity": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.RegularExpressions.wasm",
       "SourceId": "EGNValidationWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\publish\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.RegularExpressions.wasm",
       "AssetKind": "Publish",
@@ -2809,11 +2809,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u8sUZ8BD6dsQBg7YddkUQclxUfdaUw+mi9yeGYqOorQ=\""
+          "Value": "\"pqpZwxdqX7JQJ67azOxjOoKLrWBl57fgYgkaHOBtjF4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:19:10 GMT"
+          "Value": "Mon, 05 May 2025 12:26:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,18 +2823,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u8sUZ8BD6dsQBg7YddkUQclxUfdaUw+mi9yeGYqOorQ="
+          "Value": "sha256-pqpZwxdqX7JQJ67azOxjOoKLrWBl57fgYgkaHOBtjF4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\sn4xizaltr-j2msdclt6d.br",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\sn4xizaltr-m482tid25n.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000548847420"
+          "Quality": "0.000549148819"
         }
       ],
       "ResponseHeaders": [
@@ -2844,15 +2844,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1821"
+          "Value": "1820"
         },
         {
           "Name": "ETag",
-          "Value": "\"9wPdwn2sSzMHWp6bwTxjw8oppjvhIoC61XhCH1Fsy8Y=\""
+          "Value": "\"OwgGzWmQ8EkxedlwRtrbU8VTj0NJJFfKHCwOWPIDwnc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:19:10 GMT"
+          "Value": "Mon, 05 May 2025 12:26:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2872,24 +2872,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"u8sUZ8BD6dsQBg7YddkUQclxUfdaUw+mi9yeGYqOorQ=\""
+          "Value": "W/\"pqpZwxdqX7JQJ67azOxjOoKLrWBl57fgYgkaHOBtjF4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u8sUZ8BD6dsQBg7YddkUQclxUfdaUw+mi9yeGYqOorQ="
+          "Value": "sha256-pqpZwxdqX7JQJ67azOxjOoKLrWBl57fgYgkaHOBtjF4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\sn4xizaltr-j2msdclt6d.gz",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\sn4xizaltr-m482tid25n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000505816894"
+          "Quality": "0.000506585613"
         }
       ],
       "ResponseHeaders": [
@@ -2899,15 +2899,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1976"
+          "Value": "1973"
         },
         {
           "Name": "ETag",
-          "Value": "\"KdjZBuXb+ZDOvnD1xTZsvcs/u93FPNed+8cElWkQWlg=\""
+          "Value": "\"IW2WuEBBGmpflxt22ETzmNtC/KKyiXIXz21xtcUEe8g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:19:10 GMT"
+          "Value": "Mon, 05 May 2025 12:26:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2927,19 +2927,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"u8sUZ8BD6dsQBg7YddkUQclxUfdaUw+mi9yeGYqOorQ=\""
+          "Value": "W/\"pqpZwxdqX7JQJ67azOxjOoKLrWBl57fgYgkaHOBtjF4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u8sUZ8BD6dsQBg7YddkUQclxUfdaUw+mi9yeGYqOorQ="
+          "Value": "sha256-pqpZwxdqX7JQJ67azOxjOoKLrWBl57fgYgkaHOBtjF4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\sn4xizaltr-j2msdclt6d.br",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\sn4xizaltr-m482tid25n.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2948,7 +2948,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1821"
+          "Value": "1820"
         },
         {
           "Name": "Content-Type",
@@ -2956,11 +2956,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9wPdwn2sSzMHWp6bwTxjw8oppjvhIoC61XhCH1Fsy8Y=\""
+          "Value": "\"OwgGzWmQ8EkxedlwRtrbU8VTj0NJJFfKHCwOWPIDwnc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:19:10 GMT"
+          "Value": "Mon, 05 May 2025 12:26:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2978,13 +2978,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9wPdwn2sSzMHWp6bwTxjw8oppjvhIoC61XhCH1Fsy8Y="
+          "Value": "sha256-OwgGzWmQ8EkxedlwRtrbU8VTj0NJJFfKHCwOWPIDwnc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\sn4xizaltr-j2msdclt6d.gz",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\sn4xizaltr-m482tid25n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2993,7 +2993,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1976"
+          "Value": "1973"
         },
         {
           "Name": "Content-Type",
@@ -3001,11 +3001,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KdjZBuXb+ZDOvnD1xTZsvcs/u93FPNed+8cElWkQWlg=\""
+          "Value": "\"IW2WuEBBGmpflxt22ETzmNtC/KKyiXIXz21xtcUEe8g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:19:10 GMT"
+          "Value": "Mon, 05 May 2025 12:26:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3023,7 +3023,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KdjZBuXb+ZDOvnD1xTZsvcs/u93FPNed+8cElWkQWlg="
+          "Value": "sha256-IW2WuEBBGmpflxt22ETzmNtC/KKyiXIXz21xtcUEe8g="
         }
       ]
     },
@@ -3089,7 +3089,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sun, 16 Mar 2025 00:04:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3242,7 +3242,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sun, 16 Mar 2025 00:04:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3326,7 +3326,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3479,7 +3479,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4037,7 +4037,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4190,7 +4190,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:18:56 GMT"
+          "Value": "Sat, 15 Mar 2025 00:02:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4214,12 +4214,12 @@
     },
     {
       "Route": "_framework/EGNValidationWeb.wasm",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\i8ta2xi0v6-6ep8u82lop.br",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\i8ta2xi0v6-ybmnafr8kl.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000108189982"
+          "Quality": "0.000108719287"
         }
       ],
       "ResponseHeaders": [
@@ -4229,15 +4229,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9242"
+          "Value": "9197"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZxcWT5dLUeUWcVqRKhF+8IiN519o8IVOq58+2ObIdN0=\""
+          "Value": "\"tuyb49Uv4SNpKSxD+60m5eAhbjmoPmriZG/zOfhQ0nk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:19:10 GMT"
+          "Value": "Mon, 05 May 2025 12:25:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4257,24 +4257,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA=\""
+          "Value": "W/\"Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA="
+          "Value": "sha256-Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA="
         }
       ]
     },
     {
       "Route": "_framework/EGNValidationWeb.wasm",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\i8ta2xi0v6-6ep8u82lop.gz",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\i8ta2xi0v6-ybmnafr8kl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000094224065"
+          "Quality": "0.000094215187"
         }
       ],
       "ResponseHeaders": [
@@ -4284,15 +4284,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10612"
+          "Value": "10613"
         },
         {
           "Name": "ETag",
-          "Value": "\"Sjk555ztCjCjlRFPDriLnF9RSi90l5AqtZ+vG1AhBZI=\""
+          "Value": "\"IHH9nZLDCLnvHaJ3vSaHTN2iCBrtdHx6BX0BDQscrCQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:19:10 GMT"
+          "Value": "Mon, 05 May 2025 12:25:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4312,13 +4312,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA=\""
+          "Value": "W/\"Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA="
+          "Value": "sha256-Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA="
         }
       ]
     },
@@ -4341,11 +4341,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA=\""
+          "Value": "\"Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:19:10 GMT"
+          "Value": "Mon, 05 May 2025 12:25:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4355,13 +4355,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jpARAxXZYAMaLRf6hlPlBYT68BEmY8lQcKUbYj86WaA="
+          "Value": "sha256-Mpme2jRAJqK/sRmptPCIjl3TQMRx+LLHUhs8ahLlMhA="
         }
       ]
     },
     {
       "Route": "_framework/EGNValidationWeb.wasm.br",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\i8ta2xi0v6-6ep8u82lop.br",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\i8ta2xi0v6-ybmnafr8kl.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4370,7 +4370,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9242"
+          "Value": "9197"
         },
         {
           "Name": "Content-Type",
@@ -4378,11 +4378,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZxcWT5dLUeUWcVqRKhF+8IiN519o8IVOq58+2ObIdN0=\""
+          "Value": "\"tuyb49Uv4SNpKSxD+60m5eAhbjmoPmriZG/zOfhQ0nk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:19:10 GMT"
+          "Value": "Mon, 05 May 2025 12:25:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4400,13 +4400,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZxcWT5dLUeUWcVqRKhF+8IiN519o8IVOq58+2ObIdN0="
+          "Value": "sha256-tuyb49Uv4SNpKSxD+60m5eAhbjmoPmriZG/zOfhQ0nk="
         }
       ]
     },
     {
       "Route": "_framework/EGNValidationWeb.wasm.gz",
-      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\i8ta2xi0v6-6ep8u82lop.gz",
+      "AssetFile": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\compressed\\publish\\i8ta2xi0v6-ybmnafr8kl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4415,7 +4415,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10612"
+          "Value": "10613"
         },
         {
           "Name": "Content-Type",
@@ -4423,11 +4423,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Sjk555ztCjCjlRFPDriLnF9RSi90l5AqtZ+vG1AhBZI=\""
+          "Value": "\"IHH9nZLDCLnvHaJ3vSaHTN2iCBrtdHx6BX0BDQscrCQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 12:19:10 GMT"
+          "Value": "Mon, 05 May 2025 12:25:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4445,7 +4445,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Sjk555ztCjCjlRFPDriLnF9RSi90l5AqtZ+vG1AhBZI="
+          "Value": "sha256-IHH9nZLDCLnvHaJ3vSaHTN2iCBrtdHx6BX0BDQscrCQ="
         }
       ]
     },
