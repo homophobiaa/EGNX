@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\obj\\Release\\net8.0\\scopedcss\\bundle\\EGNValidationWeb.styles.css",
+      "PackagePath": "staticwebassets\\EGNValidationWeb.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\deo08\\OneDrive\\Documents\\GitHub\\EGNX\\EGNValidationWeb\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EGNValidationWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EGNValidationWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.EGNValidationWeb.props",
+      "PackagePath": "build\\EGNValidationWeb.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EGNValidationWeb.props",
+      "PackagePath": "buildMultiTargeting\\EGNValidationWeb.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.EGNValidationWeb.props",
+      "PackagePath": "buildTransitive\\EGNValidationWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

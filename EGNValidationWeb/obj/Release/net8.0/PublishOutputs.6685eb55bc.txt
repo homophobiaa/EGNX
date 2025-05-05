@@ -1,0 +1,2 @@
+C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\bin\Release\net8.0\publish\emcc-props.json
+C:\Users\deo08\OneDrive\Documents\GitHub\EGNX\EGNValidationWeb\bin\Release\net8.0\publish\web.config

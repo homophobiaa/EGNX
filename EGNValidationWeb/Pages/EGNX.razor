@@ -1,0 +1,70 @@
+﻿@page "/"
+
+@using EGNValidation
+
+<h3>EGN Validation and Generation</h3>
+
+<div>
+    <h4>Validate EGN</h4>
+    <input type="text" @bind="egnToValidate" placeholder="Enter EGN" />
+    <button @onclick="ValidateEGN">Validate EGN</button>
+    <p>@validationResult</p>
+</div>
+
+<hr />
+
+<div>
+    <h4>Generate EGN</h4>
+    <input type="date" title="Select your birth date:" @bind="birthDate" />
+    <input type="text" @bind="city" placeholder="Enter City" />
+    <select title="Select your gender" @bind="gender">
+        <option value="true">Male</option>
+        <option value="false">Female</option>
+    </select>
+    <button @onclick="GenerateEGNs">Generate EGNs</button>
+    <ul>
+        @foreach (var egn in generatedEGNs)
+        {
+                <li>@egn</li>
+        }
+    </ul>
+</div>
+
+@code {
+    private string egnToValidate;
+    private string validationResult;
+    private DateTime birthDate;
+    private string city;
+    private bool gender;
+    private List<string> generatedEGNs = new List<string>();
+
+    private void ValidateEGN()
+    {
+        if (string.IsNullOrEmpty(egnToValidate))
+        {
+            validationResult = "Please enter an EGN to validate.";
+            return;
+        }
+        Validation validator = new Validation();
+
+        bool isValid = validator.Validate(egnToValidate);
+        validationResult = isValid ? "Valid EGN" : "Not Valid EGN";
+    }
+
+    private void GenerateEGNs()
+    {
+        if (birthDate == null || string.IsNullOrEmpty(city))
+        {
+            validationResult = "Please enter a valid birthdate and city.";
+            return;
+        }
+
+        Validation validator = new Validation();
+
+        generatedEGNs = validator.Generate(birthDate, city, gender).ToList();
+        foreach (var egn in generatedEGNs)
+        {
+            Console.WriteLine(egn);
+        }
+    }
+}
