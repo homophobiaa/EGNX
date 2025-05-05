@@ -28,18 +28,6 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/deo08/OneDrive/Documents/GitHub/EGNX/EGNValidationWeb/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/deo08/OneDrive/Documents/GitHub/EGNX/EGNValidationWeb/Pages/EGNX.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRUdOWC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/deo08/OneDrive/Documents/GitHub/EGNX/EGNValidationWeb/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/deo08/OneDrive/Documents/GitHub/EGNX/EGNValidationWeb/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -51,3 +39,7 @@ build_metadata.AdditionalFiles.CssScope = b-bm7uet4mb1
 [C:/Users/deo08/OneDrive/Documents/GitHub/EGNX/EGNValidationWeb/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-jq8it5c860
+
+[C:/Users/deo08/OneDrive/Documents/GitHub/EGNX/EGNValidationWeb/Pages/EGNX.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRUdOWC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-jcn2onrg6c

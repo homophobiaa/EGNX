@@ -1,0 +1,135 @@
+.egnx-container[b-jcn2onrg6c] {
+    background-color: #0a0a0a;
+    color: #c0ffc0;
+    font-family: 'Fira Code', 'Courier New', monospace;
+    padding: 30px;
+    border-radius: 8px;
+    max-width: 700px;
+    margin: auto;
+}
+
+    .egnx-container h3[b-jcn2onrg6c],
+    .egnx-container h4[b-jcn2onrg6c] {
+        color: #00ff88;
+        border-left: 4px solid #00ff88;
+        padding-left: 12px;
+    }
+
+    .egnx-container .section[b-jcn2onrg6c] {
+        margin-bottom: 40px;
+    }
+
+    .egnx-container input[b-jcn2onrg6c],
+    .egnx-container select[b-jcn2onrg6c] {
+        background-color: #000;
+        color: #00ff88;
+        border: 1px solid #00ff88;
+        padding: 10px;
+        margin-bottom: 12px;
+        width: 100%;
+        box-sizing: border-box;
+        font-family: inherit;
+        transition: border 0.2s ease-in-out;
+    }
+
+        /* Date picker calendar icon fix */
+        .egnx-container input[type="date"][b-jcn2onrg6c]::-webkit-calendar-picker-indicator {
+            filter: invert(1);
+        }
+
+        /* Placeholder text brighter */
+        .egnx-container input[b-jcn2onrg6c]::placeholder {
+            color: #66ffcc;
+            opacity: 1;
+        }
+
+        .egnx-container input:focus[b-jcn2onrg6c],
+        .egnx-container select:focus[b-jcn2onrg6c] {
+            border-color: #00ffaa;
+            outline: none;
+        }
+
+    .egnx-container button[b-jcn2onrg6c] {
+        background-color: #111;
+        color: #00ff88;
+        border: 1px solid #00ff88;
+        padding: 10px 20px;
+        font-family: inherit;
+        cursor: pointer;
+        position: relative;
+        overflow: hidden;
+        transition: color 0.3s;
+        z-index: 1;
+    }
+
+        .egnx-container button[b-jcn2onrg6c]::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(0);
+            width: 300%;
+            height: 300%;
+            background-color: #00ff88;
+            z-index: -1;
+            transition: transform 0.4s ease-out;
+            border-radius: 50%;
+        }
+
+        .egnx-container button:hover[b-jcn2onrg6c]::before {
+            transform: translate(-50%, -50%) scale(1);
+        }
+
+        .egnx-container button:hover[b-jcn2onrg6c] {
+            color: #000;
+        }
+
+    .egnx-container p[b-jcn2onrg6c],
+    .egnx-container li[b-jcn2onrg6c] {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .egnx-container ul[b-jcn2onrg6c] {
+        list-style: square;
+        padding-left: 20px;
+        color: #00ffaa;
+    }
+
+    .egnx-container hr[b-jcn2onrg6c] {
+        border: none;
+        height: 1px;
+        background: linear-gradient(to right, #00ff88, transparent);
+        margin: 40px 0;
+    }
+
+.github-link[b-jcn2onrg6c] {
+    margin-top: 30px;
+    text-align: center;
+}
+
+    .github-link a[b-jcn2onrg6c] {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        color: #00ff88;
+        text-decoration: none;
+        background-color: #111;
+        border: 1px solid #00ff88;
+        padding: 10px 20px;
+        border-radius: 6px;
+        transition: all 0.3s ease;
+        font-family: 'Courier New', monospace;
+    }
+
+        .github-link a:hover[b-jcn2onrg6c] {
+            background-color: #00ff88;
+            color: #000;
+        }
+
+    .github-link img[b-jcn2onrg6c] {
+        width: 20px;
+        height: 20px;
+        filter: invert(1);
+    }
+
